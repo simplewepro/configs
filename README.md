@@ -1,3 +1,3 @@
-# .vimrc
+# Configs backup repo
 
-Simply saving my personal vimrc configs here
+Simply saving my personal configs here
